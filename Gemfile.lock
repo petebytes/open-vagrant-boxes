@@ -31,7 +31,7 @@ GEM
       ffi (~> 1.0, >= 1.0.11)
     diff-lcs (1.2.4)
     excon (0.28.0)
-    ffi (1.9.3)
+    ffi (1.14.2)
     fission (0.4.0)
       CFPropertyList (~> 2.0.17)
     fog (1.18.0)
